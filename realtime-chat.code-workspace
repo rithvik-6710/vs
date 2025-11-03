@@ -1,0 +1,61 @@
+{
+	"folders": [
+		{
+			"path": "../realtime-chat"
+		},
+		{
+			"path": "../crowdfund"
+		},
+		{
+			"path": "../UserApp"
+		},
+		{
+			"path": "../week8"
+		},
+		{
+			"path": "../eight_week"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../lms_project"
+		},
+		{
+			"path": "../akka-birthday"
+		},
+		{
+			"path": "../../../../../fsd/eleventh_week"
+		},
+		{
+			"path": "../kanban-workflow"
+		},
+		{
+			"path": "../jenkins-project"
+		},
+		{
+			"path": "../jenkins-java-cicd"
+		},
+		{
+			"path": "../jenkins-java-dashboard-final"
+		},
+		{
+			"path": "D:/jenkins-java-dashboard-final"
+		},
+		{
+			"path": "D:/jenkins-java-dashboard-perfect"
+		},
+		{
+			"path": "D:/server"
+		},
+		{
+			"path": "D:/JENKINS-B12"
+		},
+		{
+			"path": "D:/final-b12"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final-b12"
+	}
+}
